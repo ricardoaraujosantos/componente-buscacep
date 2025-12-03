@@ -140,5 +140,5 @@ Se você encontrar algum problema ou tiver sugestões:
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela!
 
-**Desenvolvido com ❤️ por Ricardo Araujo Santos**
+**Desenvolvido por Ricardo Araujo Santos**
 

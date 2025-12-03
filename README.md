@@ -1,8 +1,10 @@
 # 🔍 Consulta CEP - ViaCEP API
 
-> Aplicação moderna e responsiva para consulta de CEP utilizando a API ViaCEP
+> Aplicação para consulta de CEP utilizando a API ViaCEP
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-badge-id/deploy-status)](https://app.netlify.com/sites/your-site/deploys)
+## Acesso rápido:
+
+https://componente-buscacep.netlify.app/
 
 ## 📋 Sobre o Projeto
 
@@ -66,60 +68,6 @@ cd api-via-cep
 # Ou use um servidor local como Live Server (VS Code)
 ```
 
-## 🌐 Deploy na Netlify
-
-### Opção 1: Deploy via Git
-
-1. Faça push do projeto para o GitHub
-2. Acesse [Netlify](https://netlify.com)
-3. Clique em "New site from Git"
-4. Selecione seu repositório
-5. Configure:
-   - **Build command**: (deixe vazio)
-   - **Publish directory**: `/`
-6. Clique em "Deploy site"
-
-### Opção 2: Deploy via Drag & Drop
-
-1. Acesse [Netlify Drop](https://app.netlify.com/drop)
-2. Arraste a pasta do projeto
-3. Pronto! Seu site estará no ar
-
-### Opção 3: Deploy via CLI
-
-```bash
-# Instale o Netlify CLI
-npm install -g netlify-cli
-
-# Faça login
-netlify login
-
-# Deploy
-netlify deploy --prod
-```
-
-## 🎨 Personalização
-
-### Cores
-
-Edite as variáveis CSS no arquivo `css/style.css`:
-
-```css
-:root {
-    --primary-gradient: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    --secondary-gradient: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
-    --success-color: #10b981;
-    --danger-color: #ef4444;
-    --warning-color: #f59e0b;
-}
-```
-
-### Animações
-
-As animações podem ser customizadas nas classes:
-- `.card-custom` - Animação do card
-- `.resultado-visible` - Animação dos resultados
-- `.alert` - Animação dos alertas
 
 ## 🔧 Funcionalidades Técnicas
 
